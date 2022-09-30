@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C31D706528E6FEB8003A1146 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C31D706428E6FEB8003A1146 /* DetailsViewController.swift */; };
 		C3FD423428E6F0A600751295 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FD423328E6F0A600751295 /* AppDelegate.swift */; };
 		C3FD423628E6F0A600751295 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FD423528E6F0A600751295 /* SceneDelegate.swift */; };
 		C3FD423828E6F0A600751295 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FD423728E6F0A600751295 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C31D706428E6FEB8003A1146 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		C3FD423028E6F0A600751295 /* TableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3FD423328E6F0A600751295 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3FD423528E6F0A600751295 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				C3FD423C28E6F0A700751295 /* Assets.xcassets */,
 				C3FD423E28E6F0A700751295 /* LaunchScreen.storyboard */,
 				C3FD424128E6F0A700751295 /* Info.plist */,
+				C31D706428E6FEB8003A1146 /* DetailsViewController.swift */,
 			);
 			path = TableView;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				C3FD423828E6F0A600751295 /* ViewController.swift in Sources */,
 				C3FD423428E6F0A600751295 /* AppDelegate.swift in Sources */,
 				C3FD423628E6F0A600751295 /* SceneDelegate.swift in Sources */,
+				C31D706528E6FEB8003A1146 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
